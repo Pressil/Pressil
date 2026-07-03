@@ -1,14 +1,12 @@
 
 <h1 align="center">👋 Hi, I’m Pressil  </h1>
 
-I’m a passionate developer, researcher, and innovator who loves building projects that combine **hardware, software, and AI**. I enjoy exploring how technology can solve real-world problems.
+I’m an IoT major pursuing my Bachelor of Science in Computer Applications at MSU-IIT. I am passionate about blending technical rigor, research, and **technopreneurship** to build human-centered, real-world solutions.
 
 ## 🚀 About Me
-* **🛠️ Core Expertise:** Skilled in advanced microcontroller development using **STM32**, **ESP32**, and **RTOS** for high-performance applications.
-* **🌾 Smart Agriculture:** Passionate about building IoT systems for environmental monitoring, precision farming, and agricultural automation.
-* **💡 Edge Intelligence:** Experienced in implementing **Machine Learning** and computer vision to enable real-time decision-making on low-power devices.
-* **🔗 Full-Stack IoT:** Capable of developing end-to-end systems, from hardware drivers to cloud databases and mobile interfaces.
-* **🌍 Tech for Good:** Committed to creating human-centered technology that supports Sustainable Development Goals (SDGs) and local communities.
+* **🔗 IoT & Cloud Integration:** I have technical expertise in microcontroller programming and hardware-to-cloud integrations. I am currently exploring and building hands-on projects using **STM32**, **ESP32**, **FreeRTOS** and many more.
+* **🔬 Research & Innovation:** I am an active student researcher and team lead for our university's internally funded research.
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princess-april-castillo-88bb182a1)
